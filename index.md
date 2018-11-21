@@ -11,7 +11,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 <!-- The video -->
 <video autoplay muted loop id="myVideo">
-  <source src="<iframe width="704" height="396" src="https://www.youtube.com/embed/xNnd-YAKjCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" type="video/mp4">
+  <source src="<iframe width="1013" height="570" src="https://www.youtube.com/embed/xNnd-YAKjCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
 </video>
 
 <!-- Optional: some overlay text to describe the video -->
