@@ -2,13 +2,13 @@
 layout: default
 ---
 
+<p align="center">
+  <img width="460" height="300" src="https://vignette.wikia.nocookie.net/disney/images/f/f5/Kingdom_Hearts_III_Logo.png/revision/latest/scale-to-width-down/516?cb=20130625151326"> </p>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
@@ -94,8 +94,7 @@ end
 
 ### Small image
 
-<p align="center">
-  <img width="460" height="300" src="https://vignette.wikia.nocookie.net/disney/images/f/f5/Kingdom_Hearts_III_Logo.png/revision/latest/scale-to-width-down/516?cb=20130625151326"> </p>
+
 
 
 ### Large image
