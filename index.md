@@ -94,7 +94,9 @@ end
 
 ### Small image
 
-<center> ![KHIII](https://vignette.wikia.nocookie.net/disney/images/f/f5/Kingdom_Hearts_III_Logo.png/revision/latest/scale-to-width-down/516?cb=20130625151326) </center>
+<p align="center">
+  <img width="460" height="300" src="</p>(https://vignette.wikia.nocookie.net/disney/images/f/f5/Kingdom_Hearts_III_Logo.png/revision/latest/scale-to-width-down/516?cb=20130625151326)">
+
 
 ### Large image
 
