@@ -6,9 +6,9 @@
 <a href="https://www.kingdomhearts.com/home/us">Kingdom Hearts Official Page
   </p>
 
-Why do these show up on my editor but not online?
-
 # Kingdom Hearts TGS 2018 Trailer
 
 
 [![Watch the video](https://img.youtube.com/vi/xNnd-YAKjCU/hqdefault.jpg)](http://www.youtube.com/watch?v=xNnd-YAKjCU&v)
+
+Why do these show up on my editor but not online?
