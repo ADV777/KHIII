@@ -10,5 +10,3 @@ layout: default
   </p>
 
 # Kingdom Hearts TGS 2018 Trailer
-
-[![Watch the video](https://img.youtube.com/vi/xNnd-YAKjCU/hqdefault.jpg)](http://www.youtube.com/watch?v=xNnd-YAKjCU&v)
