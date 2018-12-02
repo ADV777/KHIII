@@ -6,6 +6,8 @@
 <a href="https://www.kingdomhearts.com/home/us">Kingdom Hearts Official Page
   </p>
 
+Why do these show up on my editor but not online?
+
 # Kingdom Hearts TGS 2018 Trailer
 
 
