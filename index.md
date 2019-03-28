@@ -8,6 +8,5 @@
   
 [![Watch the video](https://img.youtube.com/vi/xNnd-YAKjCU/hqdefault.jpg)](http://www.youtube.com/watch?v=xNnd-YAKjCU&v)
 
-
-<p> <p align="center"> <a href="https://www.kingdomhearts.com/home/us"> Kingdom Hearts Official Page </p>
+<p align="center"> <a href="https://www.kingdomhearts.com/home/us"> Kingdom Hearts Official Page </p>
  
