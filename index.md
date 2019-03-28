@@ -11,5 +11,4 @@
 
   <p align="center"> 
 <a href="https://www.kingdomhearts.com/home/us"> Kingdom Hearts Official Page
-  
-  </p>
+
